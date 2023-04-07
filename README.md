@@ -22,7 +22,7 @@
 
 
 <!-- Project Demo -->
-<!-- https://user-images.githubusercontent.com/6320907/189829171-1e91c3e2-0feb-4e7a-aa12-0a4d899f059b.mp4 -->
+https://user-images.githubusercontent.com/6320907/230550634-3ac6b92a-bbd2-4723-93ce-218ad02d8a31.mov
 
 
 <!-- ## Table of contents
@@ -31,7 +31,7 @@
 
 
 ## Installation
-Install the package via pip
+Install the package from [PyPi](https://pypi.org/project/typing-filter/) via pip
  ```sh
  pip install typing-filter
  ```
