@@ -8,7 +8,7 @@ Handles importing and setting project-wide fields.
 """
 #------------- Fields -------------#
 __author__ = 'Jonathan Delgado'
-__version__ = '0.0.1.0'
+__version__ = '0.0.1.1'
 
 #------------- Imports -------------#
 from .typing_filter import *

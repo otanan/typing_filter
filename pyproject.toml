@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "typing-filter"
+version = "0.1.0"
+description = "Simple CLI to provide choices to a user, and let them type in phrases which filters possible options."
+authors = ["Jonathan Delgado <jonathandelgado0327@gmail.com>"]
+readme = "README.md"
+packages = [{include = "typing_filter"}]
+
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
